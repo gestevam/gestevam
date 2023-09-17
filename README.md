@@ -6,4 +6,4 @@
 - 🔬 and the academic research I've been lucky to be a part of here: https://orcid.org/0000-0002-9142-7805
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn%20profile-8A2BE2)](https://www.linkedin.com/in/gestevam/)
-[![ORCiD](https://img.shields.io/badge/ORCiD%20profile-8A2BE2)](https://orcid.org/0000-0002-9142-7805) 
+[![ORCID](https://img.shields.io/badge/ORCID%20profile-8A2BE2)](https://orcid.org/0000-0002-9142-7805) 
